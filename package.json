@@ -1,0 +1,19 @@
+{
+  "name": "coffeebot",
+  "version": "1.0.0",
+  "description": "Coffee Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Giorgi Kabanashvili",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongodb": "^2.2.31",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
